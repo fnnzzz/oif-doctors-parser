@@ -86,14 +86,14 @@ If you are going to upload a new set of data (from a new URL), do not forget to 
 8) File -> Import -> Upload -> Import data (nothing to change in settings)
 9) Sit back, relax, and enjoy the fact that you've saved yourself dozens of hours of manual data extraction and formatting 👏🍾🥂
 ```
-
+---
 ### --- About us 👨‍🔬 ---
 
 As AI enthusiasts in the field of artificial intelligence, we are constantly striving to leverage the power of AI to enhance the operations of businesses like yours. Our team is dedicated to developing innovative solutions that optimise processes and unlock new opportunities for companies.
 In our ongoing research, we've identified companies that stand to benefit significantly from optimization and automation with AI. We believe that your company could greatly benefit from our expertise and solutions.
 
-We're offering you our advanced parser for extracting doctors info from website completely *free of charge*. 
-**It is 40% AI solution but needs manual execution**.
+>We're offering you our advanced parser for extracting doctors info from website completely *free of charge*.
+***It is 40% AI solution but needs manual execution.***
 
 #### Proposal:
 
